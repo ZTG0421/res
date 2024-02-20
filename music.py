@@ -1,3 +1,4 @@
+#通过id获取网易云歌曲封面
 def get_music_cover(id):
     import requests
     from lxml import etree
